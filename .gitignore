@@ -1,0 +1,5 @@
+config.php
+.env
+.venv/
+__pycache__/
+.DS_Store
